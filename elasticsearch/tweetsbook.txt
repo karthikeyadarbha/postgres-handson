@@ -1,0 +1,28 @@
+Project Gutenberg's Autobiography of Benjamin Franklin, by Benjamin Franklin
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: PGPLSQL Elasticsearch
+
+Author: Benjamin Franklin
+
+Editor: Frank Woodworth Pine
+
+Illustrator: Kartheek Darbha
+
+Release Date: December 25, 2023
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK AUTOBIOGRAPHY OF BENJAMIN FRANKLIN ***
+
+would eliminate one of them
+Taking a break helps with the thinking So does talking If you explain
+the problem to someone else or even to yourself you will sometimes
+find the answer before you finish asking the question
+But even the best debugging techniques will fail if there are too many
